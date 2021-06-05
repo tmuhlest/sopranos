@@ -10,7 +10,9 @@ Before we jump in, a bit about me. My name is Tanner Muhlestein! I’m a 25 year
 
 The Soprano’s is a show about life and death and sometimes there seems to be a lot of the latter. Overall, there are 93 [deaths in the Soprano’s](https://sopranos.fandom.com/wiki/List_of_deaths) that are either shown or discussed. Of those deaths, 59 are murders. For the purposes of this analysis, I only included murders where we know who committed the murder.  
 
-### 
+### Who Shot Who?
+
+Most of the shooting in the show comes from main characters as seen here. ![Me](RWW_8965.JPG)
 
 You can use the [editor on GitHub](https://github.com/tmuhlest/sopranos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
