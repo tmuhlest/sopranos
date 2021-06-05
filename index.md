@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# Does Violence in the Soprano's Lead to More Viewers?
+
+The short answer: no.
+
+### A Brief Introduction
+
+Before we jump in, a bit about me. My name is Tanner Muhlestein! I’m a 25 year old, Mormon, statistician, and recent NCSU graduate school graduate (Go Pack!!) who is also a fan of the Soprano's. Recently, upon a rewatch, I was curious if the violence in the show led to any viewership. As mentioned in the beginning, the answer is no, but I will walk you though how I came to his conclusion.
+
+### Violence in the Show
+
+The Soprano’s is a show about life and death and sometimes there seems to be a lot of the latter. Overall, there are 93 [deaths in the Soprano’s](https://sopranos.fandom.com/wiki/List_of_deaths) that are either shown or discussed. Of those deaths, 59 are murders. For the purposes of this analysis, I only included murders where we know who committed the murder.  
+
+### 
 
 You can use the [editor on GitHub](https://github.com/tmuhlest/sopranos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
