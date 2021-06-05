@@ -4,7 +4,7 @@ The short answer: no.
 
 ### A Brief Introduction
 
-Before we jump in, a bit about me. My name is Tanner Muhlestein! I’m a 25 year old, Mormon, statistician, and recent NCSU graduate school graduate (Go Pack!!) who is also a fan of the Soprano's. Recently, upon a rewatch, I was curious if the violence in the show led to any viewership. As mentioned in the beginning, the answer is no, but I will walk you though how I came to his conclusion.
+Before we jump in, a bit about me. My name is Tanner Muhlestein! I’m a 25 year old, Mormon, statistician, and recent NCSU gradschool graduate (Go Pack!!) who is also a fan of the Soprano's. Recently, upon a rewatch, I was curious if the violence in the show led to any increase in viewership. As mentioned in the beginning, the answer is no, but I will walk you though how I came to his conclusion.
 
 ### Violence in the Show
 
