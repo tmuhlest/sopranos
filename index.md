@@ -1,6 +1,6 @@
 # Does Violence in the Soprano's Lead to More Viewers?
 
-The short answer: no.
+The short answer: no.    (& of course spoiler warning for the show.)
 
 ### A Brief Introduction
 
@@ -12,7 +12,7 @@ The Soprano’s is a show about life and death and sometimes there seems to be a
 
 ### Who Shot Who?
 
-Most of the shooting in the show comes from main characters as seen here. ![Me](RWW_8965.JPG)
+Most of the shooting in the show comes from main characters as seen here. ![one](murders by sopranos characters.png) For me this stands to reason that characters like Tony and Chris would do the most shooting. They occupy the most screen time and are the center of most of the story. If this were the say "The Dante's" rather than the Soprano's, we might expect Silvio to have more action. Two interesting characters for me are Mikey Palmice and Tony Blundetto. For characters who only appear in one season both of them seem to have a lot of action. 
 
 You can use the [editor on GitHub](https://github.com/tmuhlest/sopranos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
