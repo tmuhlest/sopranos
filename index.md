@@ -2,10 +2,6 @@
 
 The short answer: no.    (& of course spoiler warning for the show.)
 
-### A Brief Introduction
-
-Before we jump in, a bit about me. My name is Tanner Muhlestein! I’m a 25 year old, Mormon, statistician, and recent NCSU gradschool graduate (Go Pack!!) who is also a fan of the Soprano's. Recently, upon a rewatch, I was curious if the violence in the show led to any increase in viewership. As mentioned in the beginning, the answer is no, but I will walk you though how I came to his conclusion.
-
 ### Violence in the Show
 
 The Soprano’s is a show about life and death and sometimes there seems to be a lot of the latter. Overall, there are 93 [deaths in the Soprano’s](https://sopranos.fandom.com/wiki/List_of_deaths) that are either shown or discussed. Of those deaths, 59 are murders. For the purposes of this analysis, I only included murders where we know who committed the murder.  
@@ -16,16 +12,16 @@ Most of the shooting in the show comes from main characters as seen here.
 
 ![one](murders by sopranos characters.png) 
 
-For me this stands to reason that characters like Tony and Chris would do the most shooting. They occupy the most screen time and are the center of most of the story. If this were the say "The Dante's" rather than the Soprano's, we might expect Silvio to have more action. Two interesting characters for me are Mikey Palmice and Tony Blundetto. For characters who only appear in one season both of them seem to have a lot of action.
+For me this stands to reason that characters like Tony and Chris would do the most shooting. They occupy the most screen time and are the center of most of the story. If this were the say "The Dante's" rather than the Soprano's, we might expect Silvio to have more action. Two interesting characters for me are Mikey Palmice and Tony Blundetto. For characters who only appear in one season both have a lot of action.
 
-While this analysis has shown that many murders are committed by main characters it has not directly answered this violence leads to greater viewership.
+While this analysis has shown that many murders are committed by main characters it has not directly answered if violence leads to greater viewership.
 
 ### When Did the Shooting Happen?
 
-Knowing when the violence occurs allows us to see if there is any correlation with viewership numbers. Here is the nubmer of murders by season (remeber, I'm only showing murders here not all deaths, so non-murder related deaths (Livia Soprano for example) are not included here).
+Knowing when the violence occurs allows us to see if there is any correlation with viewership numbers. Here is the number of murders by season (remember, I'm only showing murders here not all deaths, so non-murder related deaths (Livia Soprano for example) are not included here).
 
 ![two](murders by sopranos season.png)
-*Side note, Season six is longer than the other seasons, so take that into account
+*Side note, Season six is longer than the other seasons, so keep that in mind
 
 Overall, we see that there is a reasonable disparity in the violence. Season four has the fewest murders with 5 and Season six has the most with 20. Anecdotally, Season four probably has the fewest because it ends with the collapse of Tony and Carmella's marriage rather than a violent confrontation like Season one or Season six.
 
@@ -35,32 +31,32 @@ In this next plot we can see the deaths overtime based on each episode.
 
 The general pattern shows that there is a murder about every other episode with large spikes near the end of seasons.
 
-Next, we will look at the the number of viewers for each episode. Based on the data I pulled from [wikipedia](https://en.wikipedia.org/wiki/List_of_The_Sopranos_episodes), I couldn't get information on the viewership from the first season.
+Next, we will look at the number of viewers for each episode. Based on the data I pulled from [wikipedia](https://en.wikipedia.org/wiki/List_of_The_Sopranos_episodes), I could not get information on the viewership from the first season.
 
 ![four](sopranos viewers by episode.png)
 
-Viewership follows an interesting pattern. Generally, for the first 4 seasons viewership increases until it hits the finale of Season four with a high of 13.43 million viewers for the episode "For All Debts Public and Private". After this peak,  the viewership decreaes until the final episode of the show where it increases to 11.9 million viewers for the series finale "Made in America". 
+Viewership follows an interesting pattern. For the first 4 seasons viewership increases until it hits the finale of Season four with a high of 13.43 million viewers for the episode "For All Debts Public and Private". After this peak, the viewership decreases until the final episode of the show where it increases to 11.9 million viewers for the series finale "Made in America". 
 
 Next, I will overlay the murders and the viewership numbers to see if there is any obvious correlation.
 
 ![five](sopranos murders by episode and viewers.png)
 
-Notice how the viewership pattern generally follows an arc shape and the murders stay much more consistent.
+Notice how the viewership pattern follows an arc shape and the murders stay much more consistent.
 
-### Lets Do Some Math
+### Let’s Do Some Math
 
-In an effort to a do a  more rigourous test of whether murder and viewership are correlated lets calculate the [Pearson's Correlation](https://www.youtube.com/watch?v=e4ApDqG6MGE). As a brief review, the Pearson Correlation tells us the direction and the strength of two different variables. For a more detailed explanation of Pearson correlation please check out this [link](https://www.investopedia.com/terms/c/correlation.asp). For our purposes, its important to know that correaltion can vary between -1 and 1 with 0 meaning there is no correalation. THe correalation between murders and viewership on the Soprano's is -0.006906039 which means that it basically doesn't exist.
+In an effort to a do a more rigorous test of whether murder and viewership are correlated lets calculate the [Pearson's Correlation](https://www.youtube.com/watch?v=e4ApDqG6MGE). As a brief review, the Pearson Correlation tells us the direction and the strength of two different variables. For a more detailed explanation of Pearson correlation please check out this [link](https://www.investopedia.com/terms/c/correlation.asp). For our purposes, it’s important to know that correlation can vary between -1 and 1 with 0 meaning there is no correlation. The correlation between murders and viewership on the Soprano's is -0.006906039 which means that it basically doesn't exist (p-value = 0.9538).
 
 Here is a graph that charts the number of viewers per episode vs the number of murders for each episode.
 
 ![six](number of kills vs number of viewers seasons 2 6.png)
-*I ommitted Season one because I couldn't get ahold of the data
+*I omitted Season one because I couldn't get ahold of the data
 
 Notice, that even in the chart you would be hard pressed to find some sort of pattern.
 
 ### Conclusion
 
-While the violence in the show may be a driving factor for some of the audience, overall it does not appear to be a significant force in its contemporary viewership. It would be interesting to do a follow up study if more information regarding current viewership (IE: data from streaming services like Amazon, HBO Max etc) became available.
+While the violence in the show may be a driving factor for some of the audience, overall, it does not appear to be a significant force in its contemporary viewership. It would be interesting to do a follow up study if more information about current viewership (IE: data from streaming services like Amazon, HBO Max etc.) became available.
 
 
 
@@ -76,7 +72,7 @@ While the violence in the show may be a driving factor for some of the audience,
 
 ### R code for Nerds
 
-I will also include the excel document with all the data in the github respository. 
+I will also include the excel document with all the data in the GitHub repository. 
 
 ```markdown
 ### Sopranos visuals
@@ -168,6 +164,7 @@ temp %>%
   labs(x="Viewers (Millions)", y="Number of Murders") +
   theme_minimal() 
 cor(temp$Viewers, temp$num_kills)
+cor.test(temp$Viewers, temp$num_kills)
 rm(temp)
   # There is no correlation between murders and viewers
 ```
